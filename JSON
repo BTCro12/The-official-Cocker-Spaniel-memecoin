@@ -1,0 +1,30 @@
+{
+  "name": "Cocker Spaniel",
+  "symbol": "COCKER",
+  "description": "The official Cocker Spaniel memecoin. Cute, loyal and ready to pump.",
+  "image": "https://raw.githubusercontent.com/BTCro12/The-official-Cocker-Spaniel-memecoin/main/file_00000000d8c0720a9190aac3dcedfb4e.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Dog"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Cocker Spaniel"
+    },
+    {
+      "trait_type": "Vibe",
+      "value": "Happy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BTCro12/The-official-Cocker-Spaniel-memecoin/main/file_00000000d8c0720a9190aac3dcedfb4e.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
